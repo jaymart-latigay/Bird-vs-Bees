@@ -1,0 +1,6 @@
+JvmtiExport can_access_local_variables 0
+JvmtiExport can_hotswap_or_post_breakpoint 0
+JvmtiExport can_post_on_exceptions 0
+# 296 ciObject found
+instanceKlass java/lang/Throwable$PrintStreamOrWriter
+instanceKlass com/sun/prism/shader/FillPgram_Color_Loader
